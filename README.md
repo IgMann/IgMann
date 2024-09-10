@@ -1,4 +1,4 @@
-## Hi there 👋
+As a Master's student in Artificial Intelligence and Machine Learning, I am a highly motivated and creative individual with a passion for using my knowledge to drive positive change. I am a problem-solver at heart, and I enjoy tackling complex challenges with innovative solutions. I am also a strong team player and enjoy working with others to achieve common goals. I am excited to continue learning and growing in my field, and I am eager to apply my skills to meaningful projects that make a difference. (Also, I'm pretty bad at writing about myself, so this summary was written by OpenAI's ChatGPT bot :) )
 
 <!--
 **IgMann/IgMann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
